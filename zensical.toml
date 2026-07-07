@@ -1,5 +1,26 @@
 [project]
 site_name = "HEP Training Developer Documentation"
+nav = [
+  {"Presentation" = "index.md"},
+  {"Dictionnary" = "dictionnary.md"},
+  {"Get started" = [
+    {"Setup with Rails" = "Get-started/setup-rails.md"},
+    {"Setup with Docker" = "Get-started/setup-docker.md"},
+    {"Contribute to the project" = "Get-started/contribute.md"}
+  ]},
+  {"Project structure" = [
+    {"Ruby On Rails" = "Project-structure/ror-architecture.md"},
+    {"Docker files" = "Project-structure/docker-config.md"},
+    {"Database" = "Project-structure/database.md"},
+    {"Frontend (ERB, HTML, JS...)" = "Project-structure/frontend.md"},
+    {"Solr" = "Project-structure/solr.md"},
+    {"Features" = [
+        {"What is a feature?" = "Project-structure/Features/whatsfeature.md"},
+        {"List of features" = "Project-structure/Features/list-features.md"}
+    ]}
+  ]},
+  {"Deploying HEP Training" = "deploy-app.md"}
+]
 
 [[project.theme.palette]]
 scheme = "slate"
@@ -14,3 +35,4 @@ toggle.name = "Switch to dark mode"
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.details]
 [project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.attr_list]
