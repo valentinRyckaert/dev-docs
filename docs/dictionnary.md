@@ -59,7 +59,7 @@ _[https://kubernetes.io](https://kubernetes.io)_
 
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It handles load balancing, rolling updates, self-healing, and resource management across clusters of machines.
 
-#### OKD
+#### OKD / Openshift
 _[https://www.okd.io](https://www.okd.io)_
 
 OKD (Origin Kubernetes Distribution) is a Red Hat's open-source Kubernete distribution (open-source version of OpenShift) that extend Kubernetes with developer and operations-focused tools for container platform management. They provide additional features like integrated CI/CD pipelines, developer workflows, and enterprise support.

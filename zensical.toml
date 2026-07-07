@@ -14,9 +14,15 @@ nav = [
     {"Database" = "Project-structure/database.md"},
     {"Frontend (ERB, HTML, JS...)" = "Project-structure/frontend.md"},
     {"Solr" = "Project-structure/solr.md"},
-    {"Features" = [
-        {"What is a feature?" = "Project-structure/Features/whatsfeature.md"},
-        {"List of features" = "Project-structure/Features/list-features.md"}
+    {"JSON API" = "Project-structure/api.md"}
+  ]},
+  {"Configuration" = [
+    {"Configuration on TeSS" = "Customization/custom-index.md"},
+    {"Customize styles" = "Customization/custom-styles.md"},
+    {"Customize texts" = "Customization/custom-texts.md"},
+    {"Enable features" = [
+      {"What is a feature?" = "Customization/Features/whatsfeature.md"},
+      {"List of features" = "Customization/Features/list-features.md"}
     ]}
   ]},
   {"Deploying HEP Training" = "deploy-app.md"}
