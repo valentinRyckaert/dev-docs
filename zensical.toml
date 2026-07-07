@@ -1,0 +1,6 @@
+[project]
+site_name = "HEP Training Developer Documentation"
+
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
