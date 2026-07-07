@@ -14,6 +14,7 @@ nav = [
     {"Database" = "Project-structure/database.md"},
     {"Frontend (ERB, HTML, JS...)" = "Project-structure/frontend.md"},
     {"Solr" = "Project-structure/solr.md"},
+    {"Redis" = "Project-structure/redis.md"},
     {"JSON API" = "Project-structure/api.md"}
   ]},
   {"Configuration" = [

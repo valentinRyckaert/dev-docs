@@ -4,13 +4,22 @@ You will find here the definitions of all the quircky words you can find in this
 
 ## The project
 
-#### HEP Training
-
 #### TeSS
+_[https://elixirtess.github.io/docs/](https://elixirtess.github.io/docs/)_
+
+Training e-Support Service (TeSS) is a web application coded in ruby which aims to provide a one-stop shop for trainers and trainees to discover online information and content, including training materials, events and interactive tutorials. 
+
+#### HEP Training
+_[https://heptraining.cern.ch/](https://heptraining.cern.ch/)_
+
+Instance of the TeSS project, hosted by CERN and specialized in training materials for High Energy Physics IT tools.
 
 #### Training material
+A training material is a learning ressource shared on the TeSS plateform. It can be a documentation, a tutorial, a course...
 
 #### Feature
+A feature in TeSS is a functionnality which can be enabled or disabled from the configuration files.
+
 
 ## The tools
 
