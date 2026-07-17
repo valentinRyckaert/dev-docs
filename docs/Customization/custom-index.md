@@ -1,4 +1,4 @@
-# Customization on TeSS
+# Configuration on TeSS
 
 TeSS can be customized and configured in a variety of ways to suit the needs of your deployment.
 
