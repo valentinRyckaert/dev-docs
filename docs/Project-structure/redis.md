@@ -2,7 +2,13 @@
 
 Redis is an in-memory key-value store often used as cache, message broker and data structure server. In TeSS, Redis is used for background job storage, temporary caching and coordination between workers.
 
-> **Note:** If you are not familiar with Redis, consult the official docs first: https://redis.io/documentation.
+!!! note
+    If you are not familiar with Redis:
+    
+    - [Redis documentation](https://redis.io/documentation)
+    - [Redis in 100 seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
+    - [Redis 1h30 course](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+
 
 ## What Redis is used for in this project
 

@@ -2,7 +2,11 @@
 
 Apache Solr is a search platform built on Lucene. In TeSS, Solr powers full-text search, faceted filtering and result ranking for main catalog resources.
 
-> **Note:** If you are not familiar with Solr, read the official docs first: https://solr.apache.org/guide/.
+!!! note
+    If you are not familiar with Solr:
+    
+    - [Solr documentation](https://solr.apache.org/guide/)
+    - [Solr demo video](https://www.youtube.com/watch?v=XOw7fg5SvMQ)
 
 ## What Solr is used for in this project
 
