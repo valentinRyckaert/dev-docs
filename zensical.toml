@@ -26,6 +26,12 @@ nav = [
       {"List of features" = "Customization/Features/list-features.md"}
     ]}
   ]},
+  {"Best practices" = [
+    {"Pull requests" = "Best-practices/pull-requests.md"},
+    {"Commit messages" = "Best-practices/commits.md"},
+    {"RDoc Conventions" = "Best-practices/code.md"},
+    {"Using AI" = "Best-practices/ai.md"}
+  ]},
   {"Deploying HEP Training" = "deploy-app.md"}
 ]
 
