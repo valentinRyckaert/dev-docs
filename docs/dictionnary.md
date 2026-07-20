@@ -84,3 +84,6 @@ _[https://openid.net/connect](https://openid.net/connect)_
 OIDC (OpenID Connect) is an authentication protocol built on OAuth 2.0 that enables secure user identity verification and single sign-on capabilities. It allows applications to verify user identity and obtain basic user information from an identity provider in a standardized way.
 
 #### CERN SSO
+_[https://paas.docs.cern.ch/4._CERN_Authentication/1-use-cern-sso/](https://paas.docs.cern.ch/4._CERN_Authentication/1-use-cern-sso/)_
+
+CERN uses its own authentication service, which HEP Training is bound on.
