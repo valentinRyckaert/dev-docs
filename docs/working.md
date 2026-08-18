@@ -20,7 +20,7 @@ On the other hand, dev-docs has only a "main" branch since it is not a fork of a
 
 At CERN, HEP Training is surrounded by four main components:
 
-- [OKD](./dictionnary.md#okd--openshift): the instance which HEP Training is deployed on
+- [OKD](./dictionnary.md#okd-openshift): the instance which HEP Training is deployed on
 - GMS: the Group Management System of the CERN where the groups for private spaces are fetched
 - [CERN SSO](./dictionnary.md#cern-sso): the system for authentification on HEP Training
 - Application Portal: hosted by CERN, contains an application which is the proxy for HEP Training in order to fetch the GMS API

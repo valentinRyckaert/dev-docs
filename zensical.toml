@@ -27,13 +27,16 @@ nav = [
       {"List of features" = "Customization/Features/list-features.md"}
     ]}
   ]},
+  {"Deployment" = [
+    {"Deploying HEP Training" = "Deploy-HEP-Training/deploy-app.md"},
+    {"Add a subdomain on OKD for a space" = "Deploy-HEP-Training/add-subdomain.md"}
+  ]},
   {"Best practices" = [
     {"Pull requests" = "Best-practices/pull-requests.md"},
     {"Commit messages" = "Best-practices/commits.md"},
     {"RDoc Conventions" = "Best-practices/code.md"},
     {"Using AI" = "Best-practices/ai.md"}
   ]},
-  {"Deploying HEP Training" = "deploy-app.md"}
 ]
 
 [[project.theme.palette]]
