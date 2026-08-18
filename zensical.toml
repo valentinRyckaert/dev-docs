@@ -2,6 +2,7 @@
 site_name = "HEP Training Developer Documentation"
 nav = [
   {"Presentation" = "index.md"},
+  {"Working on HEP Training" = "working.md"},
   {"Dictionnary" = "dictionnary.md"},
   {"Get started" = [
     {"Setup with Rails" = "Get-started/setup-rails.md"},
