@@ -19,7 +19,7 @@ nav = [
     {"JSON API" = "Project-structure/api.md"}
   ]},
   {"Configuration" = [
-    {"Configuration on TeSS" = "Customization/custom-index.md"},
+    {"Configuration files" = "Customization/custom-index.md"},
     {"Customize styles" = "Customization/custom-styles.md"},
     {"Customize texts" = "Customization/custom-texts.md"},
     {"Enable features" = [
